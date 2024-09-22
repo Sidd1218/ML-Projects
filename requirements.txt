@@ -12,6 +12,7 @@ SQLAlchemy==1.4.48
 torch==2.0.0
 transformers==4.28.1
 opencv-python
+spacy
 
 # Notebook
 cleanlab==2.3.1
